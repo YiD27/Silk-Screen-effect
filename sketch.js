@@ -3,7 +3,7 @@ let rows, cols;
 let offset = 0;
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(1200, 600);
   rows = height / tileSize;
   cols = width / tileSize;
   noFill();
